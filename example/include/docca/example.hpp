@@ -774,6 +774,8 @@ class derived_type :
 
     @li @ref class_type::class_type
 
+    @li @ref class_type::~class_type
+
     @li @ref class_type::func
 
     @li @ref class_type::t_func
